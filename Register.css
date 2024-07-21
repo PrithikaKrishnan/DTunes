@@ -1,0 +1,18 @@
+
+body{
+    background-color: black;
+}
+.register-container {
+    display: flex;
+    background-color: pink;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+    height: 100px;
+    width: 100px;
+  }
+  
+    
+
+  
+  
